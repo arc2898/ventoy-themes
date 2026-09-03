@@ -1,0 +1,3 @@
+# Adaptive render verification
+
+The generated previews are actual 1366×786 renders based on the daily output images and computed menu geometry. Day 001 selected the right-side region, leaving the bridge structure visible and keeping the menu text readable over a darkened panel. Day 250 selected the right-bottom region because the laptop and foreground subject occupied the opposite side; the menu remained readable without covering the primary subject. The title/date, menu item names, footer controls, selected-row highlight, and Ventoy label are visible in both inspected renders. The per-day manifest records the selected region, coordinates, dimensions, and transparency value for every day.
