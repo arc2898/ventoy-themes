@@ -1,0 +1,19 @@
+desktop-image: "background.png"
+title-text: " "
+title-color: "#ffffff"
+message-color: "#ffffff"
++ boot_menu {
+    left = 61%
+    top = 33%
+    width = 36%
+    height = 60%
+    item_color = "#d8e0ea"
+    selected_item_color = "#ffffff"
+    item_height = 36
+    item_spacing = 5
+    item_padding = 8
+    item_icon_space = 12
+    scrollbar = false
+    menu_pixmap_style = "menu_*.png"
+    selected_item_pixmap_style = "select_*.png"
+}

@@ -1,0 +1,10 @@
+{
+  "theme": {
+    "file": "/ventoy/theme/theme.txt",
+    "gfxmode": "1366x786",
+    "display_mode": "GUI",
+    "ventoy_left": "5%",
+    "ventoy_top": "95%",
+    "ventoy_color": "#d8e0ea"
+  }
+}
